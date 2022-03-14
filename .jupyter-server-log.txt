@@ -47,3 +47,10 @@ TermSocket.open: Opened 1
 [I 09:12:22.740 NotebookApp] Saving file at /B1.ipynb
 [W 09:22:22.023 NotebookApp] Culling 'idle' kernel 'python3' (fa747823-ecf5-4cbc-b540-6aa8345c31a2) with 2 connections due to 620 seconds of inactivity.
 [I 09:22:22.024 NotebookApp] Kernel shutdown: fa747823-ecf5-4cbc-b540-6aa8345c31a2
+[I 09:42:34.827 NotebookApp] Copying B1.ipynb to 
+[I 09:42:40.337 NotebookApp] Kernel started: ac324365-398a-4482-96d2-bfb921323207, name: python3
+[I 09:43:34.011 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
+[I 09:43:39.394 NotebookApp] Saving file at /requirements.txt
