@@ -54,3 +54,7 @@ TermSocket.open: 2
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 2
 [I 09:43:39.394 NotebookApp] Saving file at /requirements.txt
+[I 09:45:23.664 NotebookApp] Copying B2.html to 
+[I 09:45:57.199 NotebookApp] Copying B2.ipynb to 
+[I 09:46:03.724 NotebookApp] Kernel started: 386cb086-214e-4494-82f9-6c5adbda4bdf, name: python3
+[I 09:46:48.635 NotebookApp] Uploading file to /data4.csv
